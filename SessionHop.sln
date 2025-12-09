@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionHop", "SessionHop\SessionHop.csproj", "{FA821989-813D-48D8-9967-EC264CCD7FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA821989-813D-48D8-9967-EC264CCD7FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA821989-813D-48D8-9967-EC264CCD7FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA821989-813D-48D8-9967-EC264CCD7FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA821989-813D-48D8-9967-EC264CCD7FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4484C11-91A2-4FD3-8ED4-96C425880D87}
+	EndGlobalSection
+EndGlobal
